@@ -1,0 +1,70 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "csv",
+  "dataset_size": 5026153,
+  "description": "",
+  "download_checksums": {
+    "/content/drive/.shortcut-targets-by-id/1ZzQksRs0kRmPralQNm1MNmjdVXnpPvgs/Data 266 Project/df_predictions.csv": {
+      "num_bytes": 5003049,
+      "checksum": null
+    }
+  },
+  "download_size": 5003049,
+  "features": {
+    "subreddit": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "content": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "summary": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "generated_t5_base": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "generated_bart_base": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "generated_pegasus_base": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "generated_t5_finetuned": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "generated_bart_finetuned": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 10029202,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 5026153,
+      "num_examples": 3000,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
