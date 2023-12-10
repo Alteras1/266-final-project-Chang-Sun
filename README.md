@@ -1,7 +1,10 @@
 # Datasci 266 Final Project Repo: Steven Chang, Rebecca Sun
-UC Berkeley
+
+Steven Chang, Rebecca Sun
 
 Datasci 266 Fall 2023
+
+UC Berkeley
 
 Files partially moved from [Google Drive](https://drive.google.com/drive/folders/1ZzQksRs0kRmPralQNm1MNmjdVXnpPvgs?usp=drive_link).
 
