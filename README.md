@@ -6,6 +6,8 @@ Datasci 266 Fall 2023
 
 UC Berkeley
 
+[Final Project Paper](https://github.com/Alteras1/266-final-project-Chang-Sun/blob/main/Final_Project_266.pdf)
+
 Files partially moved from [Google Drive](https://drive.google.com/drive/folders/1ZzQksRs0kRmPralQNm1MNmjdVXnpPvgs?usp=drive_link).
 
 
